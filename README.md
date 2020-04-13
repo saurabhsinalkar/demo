@@ -1,7 +1,7 @@
 #Demo Project README
 Demo2
 
-Second update no problemTHis is a simple readme file.
+THis is a simple readme file.
 
 
 
